@@ -260,11 +260,12 @@ header {
     color: #fff;
     font-weight: 700;
     text-align: center;
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     line-height: 0.2rem;
     letter-spacing: 0.1rem;
     text-transform: uppercase;
   }
+
   
   /*------------------------------------------------------------------------------------------------------------------------------------------*/
   /*------------------------------------responsive media queries------for footer--------------------------------------------------------------*/
@@ -284,6 +285,15 @@ header {
     .footer-col {
       width: 100%;
     }
+    .creator {
+      font-size: 0.4rem;
+    }
   }
-  
+   
+  @media(max-width: 433px) {
+ 
+    .creator {
+      font-size: 0.38.5rem;
+    }
+  }
   /*---------------------------------------------/ THE END /-----------/ CODED BY DARSHAN BAJGAIN /-----------------------------------------------*/
