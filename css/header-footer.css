@@ -88,11 +88,7 @@ header {
       text-align: center;
       z-index: 1;
     }
-  
-    nav ul.show {
-      display: block;
-    }
-  
+    
     nav ul li {
       margin-top: 3.125rem;
     }
@@ -147,9 +143,6 @@ header {
   
     }
   
-    nav ul.show+.close-button {
-      display: block;
-    }
   }
   /*--------------------------------------------------------*/
   @media (max-width: 1055px) {

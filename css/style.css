@@ -33,7 +33,7 @@ body {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: linear-gradient(rgba(68, 68, 65, 0.763),rgba(0, 30, 48, 0.834)), url('../img/s4.jpg');
+  background-image: linear-gradient(rgba(68, 68, 65, 0.763),rgba(0, 30, 48, 0.834)), url('../img/scbg.jpg');
   clip-path: polygon(0 0, 100% 0, 100% 620px, 0 100%);
   /*for creating fading bg-images /
   animation: slideBg 12s linear infinite 0s;
