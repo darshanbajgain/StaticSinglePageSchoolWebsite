@@ -11,6 +11,10 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+html{
+  scroll-behavior: smooth;/*added for smooth transition when clicked on navelements*/
+}
+
 body {
   font-weight: 500;
   color: rgb(0, 0, 0);
